@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=USHANT%20SINGH&fontSize=90&animation=fadeIn&fontAlignY=38" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+Specialist;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=USHANT%20SINGH&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20Specialist%20%7C%20Open%20Source%20Enthusiast&descAlignY=51&descAlign=62" alt="Ushant Singh Header" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ushantsingh&label=VISITORS&style=for-the-badge&color=2ecc71" alt="Visitor Count" />
 </div>
 
 <div align="center">
