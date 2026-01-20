@@ -27,7 +27,7 @@
 
 ## 🌐 CONNECT WITH ME
 <p align="center">
-  <a href="https://linkedin.com/in/ushantsingh"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ushant-singh-39253a33b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/ushantsingh"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:ushantsingh4@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://instagram.com/ushant_singh__"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
