@@ -3,10 +3,16 @@
 </p>
 
 
-# 💫 About Me:
-🔭 I’m currently working on:<br><br>Building high-performance MERN Stack applications and a Secure Data Wiping Tool for privacy compliance.<br><br>👯 I’m looking to collaborate on:<br><br>Open-source Full Stack projects, Java tools, and innovative Hackathon solutions.<br><br>🤝 I’m looking for help with:<br><br>Advanced System Design patterns and Cloud Deployment (AWS/Azure) strategies.<br><br>🌱 I’m currently learning:<br><br>Spring Boot for enterprise backend development and Next.js for server-side rendering.<br><br>💬 Ask me about:<br><br>Java, React.js, Data Structures & Algorithms, and my experience as a NASA Space Apps Galactic Problem Solver.<br><br>⚡ Fun fact: I'm a Java specialist who is currently speed-running my way through the MERN stack universe! ☕🚀
-
-
+<h2>💫 About Me</h2>
+<div align="center">
+  <p>
+    🔭 Building <b>MERN Stack</b> apps & <b>Secure Data Tools</b><br>
+    🌱 Learning <b>Spring Boot</b> & <b>Next.js</b><br>
+    👯 Open for <b>Hackathon</b> collaborations<br>
+    💬 Ask me about <b>Java, DSA</b> & <b>NASA Space Apps</b><br>
+    ⚡ Fun fact: A <b>Java pro</b> speed-running the <b>MERN</b> universe! ☕🚀
+  </p>
+</div>
 ## 🌐 CONNECT WITH ME
 <p align="center">
   <a href="https://linkedin.com/in/ushantsingh"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
