@@ -98,7 +98,11 @@
 </div
   
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ushantsingh&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ushantsingh&theme=tokyonight&no-frame=false&no-bg=false&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
+  </a>
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
