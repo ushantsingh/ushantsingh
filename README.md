@@ -3,16 +3,20 @@
 </p>
 
 
-<h2>💫 About Me</h2>
-<div align="center">
-  <p>
-    🔭 Building <b>MERN Stack</b> apps & <b>Secure Data Tools</b><br>
-    🌱 Learning <b>Spring Boot</b> & <b>Next.js</b><br>
-    👯 Open for <b>Hackathon</b> collaborations<br>
-    💬 Ask me about <b>Java, DSA</b> & <b>NASA Space Apps</b><br>
-    ⚡ Fun fact: A <b>Java pro</b> speed-running the <b>MERN</b> universe! ☕🚀
-  </p>
-</div>
+# 💫 About Me
+
+* 🔭 **Current Focus:** I am currently developing scalable **MERN Stack** applications and working on a **Secure Data Wiping Tool** to ensure strict privacy compliance.
+
+* 🌱 **Learning Journey:** I am bridging the gap between stacks by mastering **Spring Boot** for enterprise-grade backends and **Next.js** for high-performance server-side rendering.
+
+* 👯 **Collaborations:** I am actively looking to collaborate on **Open-Source** projects within the Java and JavaScript ecosystems, as well as innovative solutions for **Hackathons** (like SIH & NASA Space Apps).
+
+* 🤝 **Looking for Help:** I am interested in deep-diving into **Advanced System Design** patterns and optimizing Cloud Deployment strategies on **AWS** and **Azure**.
+
+* 💬 **Ask Me About:** Feel free to ask me about **Java internals**, **Data Structures & Algorithms**, or my experience as a **NASA Space Apps Galactic Problem Solver**.
+
+* ⚡ **Fun Fact:** I am a **Java Specialist** at heart who is currently speed-running the entire **MERN Stack** universe! ☕🚀
+  
 ## 🌐 CONNECT WITH ME
 <p align="center">
   <a href="https://linkedin.com/in/ushantsingh"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
