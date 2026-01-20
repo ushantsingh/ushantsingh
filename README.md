@@ -123,7 +123,10 @@ try {
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushantsingh&theme=tokyonight&hide_border=true&layout=compact&background=00000000" alt="Top Languages" />
   </a>
 </div
-  
+
+  <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ushantsingh&bg_color=0d1117&color=00c6ff&line=0072ff&point=ffffff&area=true&hide_border=true" alt="Ushant's Contribution Graph" />
+</div>
 
 <h2>🏆 GitHub Trophies</h2>
 
