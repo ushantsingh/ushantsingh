@@ -25,6 +25,16 @@
 
 <h3>⚠️ Exception Handling</h3>
 
+## 🌐 CONNECT WITH ME
+<p align="center">
+  <a href="https://linkedin.com/in/ushantsingh"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/ushantsingh"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:ushantsingh4@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://instagram.com/ushant_singh__"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://x.com/ushantsingh"><img src="https://img.shields.io/badge/x-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+</p>
+
+
 ```javascript
 // 🧠 My Philosophy
 try {
@@ -115,14 +125,6 @@ try {
   </a>
 </div
   
-## 🌐 CONNECT WITH ME
-<p align="center">
-  <a href="https://linkedin.com/in/ushantsingh"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/ushantsingh"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:ushantsingh4@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://instagram.com/ushant_singh__"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://x.com/ushantsingh"><img src="https://img.shields.io/badge/x-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-</p>
 
 <h2>🏆 GitHub Trophies</h2>
 
