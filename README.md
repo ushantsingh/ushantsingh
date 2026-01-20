@@ -3,7 +3,7 @@
   
   <br/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00c6ff&center=true&vCenter=true&width=550&lines=Will+Code+for+Grades+🎓;O(1)+Coding+Speed,+O(N!)+Debugging;Surviving+on+caffeine+%26+2+hours+of+sleep;Inverting+Binary+Trees+for+fun;MERN+Stack%3F+More+like+BURNT+Stack;Arrays+start+at+0+(Fight+me);LeetCode+is+my+therapy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00c6ff&center=true&vCenter=true&width=550&lines=Will+Code+for+Grades+🎓;O(1)+Coding+Speed,+O(N!)+Debugging;Surviving+on+coffee+%26+2+hours+of+sleep;Inverting+Binary+Trees+for+fun;MERN+Stack%3F+More+like+BURNT+Stack;Arrays+start+at+0+(Fight+me);LeetCode+is+my+therapy" alt="Typing SVG" />
 </div>
 
 <p align="center">
