@@ -1,10 +1,10 @@
-``` Background```
+![Ushant Singh Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=USHANT%20SINGH&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20Specialist%20%7C%20Open%20Source%20Enthusiast&descAlignY=51&descAlign=62)
+
 <div align="center">
   <img src="./header.png" width="100%" alt="Ushant Singh Header" />
 </div>
 <br/>
 
-```VISITOR COUNT```
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=ushantsingh/ushantsingh&label=VISITORS&countColor=%2337d67a" alt="visitor badge" />
 </p>
