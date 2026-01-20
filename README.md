@@ -23,8 +23,6 @@
 
 * ⚡ **Fun Fact:** I am a **Java Specialist** at heart who is currently speed-running the entire **MERN Stack** universe! ☕🚀
 
-<h3>⚠️ Exception Handling</h3>
-
 ## 🌐 CONNECT WITH ME
 <p align="center">
   <a href="https://linkedin.com/in/ushantsingh"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -34,6 +32,7 @@
   <a href="https://x.com/ushantsingh"><img src="https://img.shields.io/badge/x-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
+<h3>⚠️ Exception Handling</h3>
 
 ```javascript
 // 🧠 My Philosophy
