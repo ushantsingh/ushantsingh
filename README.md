@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=300&section=header&text=USHANT%20SINGH&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" alt="Header" />
   
-  <br/> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00c6ff&center=true&vCenter=true&width=450&lines=Will+Code+for+Grades+🎓;O(1)+Coding+Speed,+O(N!)+Debugging; Surviving+on+caffeine+%26+2+hours+of+sleep;Inverting+Binary+Trees+for+fun;MERN+Stack%3F+More+like+BURNT+Stack;Arrays+start+at+0+(Fight+me);LeetCode+is+my+therapy" alt="Typing SVG" />
+  <br/> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00c6ff&center=true&vCenter=true&width=450&lines=Will+Code+for+Grades+🎓;O(1)+Coding+Speed,+O(N!)+Debugging;Surviving+on+caffeine+%26+2+hours+of+sleep;Inverting+Binary+Trees+for+fun;MERN+Stack%3F+More+like+BURNT+Stack;Arrays+start+at+0+(Fight+me);LeetCode+is+my+therapy" alt="Typing SVG" />
 </div>
 
 <p align="center">
