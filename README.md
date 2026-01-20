@@ -22,6 +22,18 @@
 * 💬 **Ask Me About:** Feel free to ask me about **Java internals**, **Data Structures & Algorithms**, or my experience as a **NASA Space Apps Galactic Problem Solver**.
 
 * ⚡ **Fun Fact:** I am a **Java Specialist** at heart who is currently speed-running the entire **MERN Stack** universe! ☕🚀
+
+<h3>⚠️ Exception Handling</h3>
+
+```javascript
+// 🧠 My Philosophy
+try {
+  succeed();
+} catch (Failure e) {
+  learn();
+  retry(); // Never stop trying
+}
+```
   
 ## 🌐 CONNECT WITH ME
 <p align="center">
@@ -116,17 +128,7 @@
 
 <h2>🏆 GitHub Trophies</h2>
 
-<h3>⚠️ Exception Handling</h3>
 
-```javascript
-// 🧠 My Philosophy
-try {
-  succeed();
-} catch (Failure e) {
-  learn();
-  retry(); // Never stop trying
-}
-```
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ushantsingh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
