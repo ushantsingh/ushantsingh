@@ -1,14 +1,8 @@
 ``` Background```
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" preserveAspectRatio="none">
-  <defs>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#b85914;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#6d2875;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="100%" fill="url(#grad1)" />
-  <path fill="#2d1b38" fill-opacity="0.4" d="M0,224L48,213.3C96,203,192,181,288,181.3C384,181,480,203,576,224C672,245,768,267,864,261.3C960,256,1056,224,1152,208C1248,192,1344,192,1392,192L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path>
-</svg>
+<div align="center">
+  <img src="./header.png" width="100%" alt="Ushant Singh Header" />
+</div>
+<br/>
 
 ```VISITOR COUNT```
 <p align="center">
