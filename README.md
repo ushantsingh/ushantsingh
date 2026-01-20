@@ -1,4 +1,7 @@
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=USHANT%20SINGH&fontSize=90&animation=fadeIn&fontAlignY=38" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+Specialist;Open+Source+Enthusiast" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=ushantsingh/ushantsingh&label=VISITORS&countColor=%2337d67a" alt="visitor badge" />
