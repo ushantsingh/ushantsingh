@@ -100,8 +100,17 @@
 
 <h2>🏆 GitHub Trophies</h2>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3>⚠️ Exception Handling</h3>
+
+javascript
+// 🧠 My Philosophy
+try {
+  succeed();
+} catch (Failure e) {
+  learn();
+  retry(); // Never stop trying
+}
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ushantsingh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
