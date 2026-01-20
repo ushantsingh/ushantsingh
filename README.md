@@ -102,7 +102,7 @@
 
 <h3>⚠️ Exception Handling</h3>
 
-javascript
+```javascript
 // 🧠 My Philosophy
 try {
   succeed();
@@ -110,7 +110,7 @@ try {
   learn();
   retry(); // Never stop trying
 }
-
+```
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ushantsingh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
