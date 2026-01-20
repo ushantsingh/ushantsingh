@@ -84,18 +84,21 @@
 </p>
 
 # 📊 GitHub Stats:
+<h2 align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="30" width="30" valign="bottom"/>
+  JS & GitHub Stats
+</h2>
 
 <div align="center">
-  <a href="https://github.com/ushantsingh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ushantsingh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  </a>
-  <a href="https://github.com/ushantsingh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushantsingh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-  </a>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ushantsingh&theme=tokyonight&hide_border=true&background=00000000&stroke=F7DF1E&ring=F7DF1E&fire=F7DF1E&currStreakLabel=F7DF1E" alt="Streak Stats" />
   
   <br/>
+  
   <a href="https://github.com/ushantsingh">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=ushantsingh&theme=tokyonight&hide_border=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ushantsingh&hide_border=true&show_icons=true&title_color=F7DF1E&icon_color=F7DF1E&text_color=fff&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/ushantsingh">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushantsingh&hide_border=true&layout=compact&title_color=F7DF1E&icon_color=F7DF1E&text_color=fff&bg_color=0d1117" />
   </a>
 </div>
 
