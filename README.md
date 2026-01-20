@@ -84,9 +84,20 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ushantsingh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ushantsingh&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ushantsingh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+<div align="center">
+  <a href="https://github.com/ushantsingh">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ushantsingh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/ushantsingh">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushantsingh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  </a>
+  
+  <br/>
+  <a href="https://github.com/ushantsingh">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=ushantsingh&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ushantsingh&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
