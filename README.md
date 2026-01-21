@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=ushantsingh/ushantsingh&label=VISITORS&countColor=%2337d67a" alt="visitor badge" />
+  <img src="https://komarev.com/ghpvc/?username=ushantsingh&label=VISITORS&style=for-the-badge&color=37d67a" alt="Profile views" />
 </p>
 
 
