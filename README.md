@@ -39,7 +39,7 @@
   <a href="https://x.com/ushantsingh4"><img src="https://img.shields.io/badge/x-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 <h3>⚠️ Exception Handling</h3>
 
