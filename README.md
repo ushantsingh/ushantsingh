@@ -34,6 +34,9 @@
   <a href="https://x.com/ushantsingh4"><img src="https://img.shields.io/badge/x-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+
 <h3>⚠️ Exception Handling</h3>
 
 ```javascript
