@@ -25,7 +25,7 @@
 
 # 💫 About Me
 
-* 🔭 **Current Focus:** I am mastering **Full Stack Development** by building a **Secure Data Wiping Tool** for strict privacy compliance.
+* 🔭 **Current Focus:** I am mastering **Full Stack Development** by building scalable and efficient web applications.
 * 🌱 **Learning:** Bridging the gap between **Java (Spring Boot)** backends and **JavaScript (Next.js)** frontends.
 * 👯 **Collaborations:** I am actively looking to collaborate on **Open Source** projects within the Java and JavaScript ecosystems.
 * 💬 **Ask Me About:** **Java internals**, **Data Structures & Algorithms (DSA)**, and system design.
