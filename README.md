@@ -123,9 +123,14 @@ try {
 
 # 📊 GitHub Stats:
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=ushantsingh&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
-  </a>
+
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ushantsingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+</a>
+
+
+  
   <br/>
   <a href="https://github.com/ushantsingh">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=ushantsingh&theme=tokyonight&hide_border=true&show_icons=true&background=00000000" alt="GitHub Stats" />
