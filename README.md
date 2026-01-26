@@ -124,7 +124,7 @@ try {
 # 📊 GitHub Stats:
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ushantsingh&theme=tokyonight&hide_border=true&background=00000000)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ushantsingh&theme=tokyonight&hide_border=true&background=00000000&ts=99)](https://git.io/streak-stats)
 
   
   <br/>
