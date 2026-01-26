@@ -125,7 +125,7 @@ try {
 <div align="center">
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=ushantsingh&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ushantsingh&theme=tokyonight&hide_border=true&background=00000000&refresh=1" alt="GitHub Streak" />
 </a>
 
   
