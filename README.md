@@ -125,25 +125,18 @@ try {
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=ushantsingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  <br/>
-  <br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ushantsingh&theme=tokyonight&hide_border=true&background=00000000)](https://git.io/streak-stats)
 
-  <a href="https://github.com/ushantsingh">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ushantsingh&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" />
-  </a>
-  &nbsp;&nbsp; <a href="https://github.com/ushantsingh">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushantsingh&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-  </a>
+<br/>
 
-  <br/>
-  <br/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ushantsingh&theme=tokyonight&hide_border=true&show_icons=true&bg_color=00000000)](https://github.com/ushantsingh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ushantsingh&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000)](https://github.com/ushantsingh)
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ushantsingh&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ushantsingh&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
-
 
 <h2>🏆 GitHub Trophies</h2>
 
