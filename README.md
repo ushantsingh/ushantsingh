@@ -122,23 +122,7 @@ try {
 </p>
 
 # 📊 GitHub Stats:
-<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ushantsingh&theme=tokyonight)
-
-  
-  <br/>
-  <a href="https://github.com/ushantsingh">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ushantsingh&theme=tokyonight&hide_border=true&show_icons=true&background=00000000" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/ushantsingh">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushantsingh&theme=tokyonight&hide_border=true&layout=compact&background=00000000" alt="Top Languages" />
-  </a>
-</div
-
-  <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ushantsingh&theme=tokyo-night&hide_border=true&area=true" alt="Ushant's Contribution Graph" />
-</div>
 
 <h2>🏆 GitHub Trophies</h2>
 
