@@ -123,23 +123,25 @@ try {
 
 # 📊 GitHub Stats:
 
-
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ushantsingh&theme=tokyonight)
-
+  <img src="https://streak-stats.demolab.com?user=ushantsingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
   <br/>
-  <a href="https://github.com/ushantsingh">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ushantsingh&theme=tokyonight&hide_border=true&show_icons=true&background=00000000" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/ushantsingh">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushantsingh&theme=tokyonight&hide_border=true&layout=compact&background=00000000" alt="Top Languages" />
-  </a>
-</div
+  <br/>
 
-  <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ushantsingh&theme=tokyo-night&hide_border=true&area=true" alt="Ushant's Contribution Graph" />
+  <a href="https://github.com/ushantsingh">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ushantsingh&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  </a>
+  &nbsp;&nbsp; <a href="https://github.com/ushantsingh">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushantsingh&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  </a>
+
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ushantsingh&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+
 </div>
 
 
