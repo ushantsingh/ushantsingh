@@ -130,14 +130,19 @@ try {
   </a>
   
   <br/>
-  
+
   <a href="https://leetcode.com/u/ushantsingh/">
     <img src="https://leetcard.jacoblin.cool/ushantsingh?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
   </a>
   
   <br/>
   
+  <a href="https://github.com/ushantsingh">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushantsingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  </a>
 </div>
+
+
 
 <h2>🏆 GitHub Trophies</h2>
 
