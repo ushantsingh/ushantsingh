@@ -121,7 +121,6 @@ try {
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
 </p>
 
-# 📊 GitHub Stats:
 
 <div align="center">
   <h2>📊 LeetCode & GitHub Analytics</h2>
@@ -138,9 +137,6 @@ try {
   
   <br/>
   
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ushantsingh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="github-trophy" />
-  </a>
 </div>
 
 <h2>🏆 GitHub Trophies</h2>
