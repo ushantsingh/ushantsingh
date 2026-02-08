@@ -124,18 +124,20 @@ try {
 # 📊 GitHub Stats:
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ushantsingh&theme=tokyonight&hide_border=true&background=00000000)](https://git.io/streak-stats)
-
-<br/>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ushantsingh&theme=tokyonight&hide_border=true&show_icons=true&bg_color=00000000)](https://github.com/ushantsingh)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ushantsingh&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000)](https://github.com/ushantsingh)
-
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ushantsingh&theme=tokyo-night&hide_border=true&area=true)
-
+  <h2>📊 GitHub Analytics</h2>
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ushantsingh&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  </a>
+  
+  <br/>
+  
+  <a href="https://github.com/ushantsingh">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ushantsingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Ushant's GitHub Stats" />
+  </a>
+  <a href="https://github.com/ushantsingh">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushantsingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  </a>
 </div>
 
 <h2>🏆 GitHub Trophies</h2>
