@@ -136,10 +136,6 @@ try {
   </a>
   
   <br/>
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ushantsingh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="github-trophy" />
-  </a>
 </div>
 
 
