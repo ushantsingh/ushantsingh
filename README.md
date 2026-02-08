@@ -127,16 +127,16 @@ try {
   <h2>📊 GitHub Analytics</h2>
   
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ushantsingh&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ushantsingh&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
   </a>
   
   <br/>
   
   <a href="https://github.com/ushantsingh">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ushantsingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Ushant's GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ushantsingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Ushant's GitHub Stats" />
   </a>
   <a href="https://github.com/ushantsingh">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushantsingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushantsingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
   </a>
 </div>
 
