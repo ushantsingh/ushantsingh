@@ -123,7 +123,7 @@ try {
 
 
 <div align="center">
-  <h2>📊 LeetCode & GitHub Analytics</h2>
+  <h2>📊 Coding Statistics</h2>
   
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ushantsingh&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
@@ -141,7 +141,6 @@ try {
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushantsingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
   </a>
 </div>
-
 
 
 <h2>🏆 GitHub Trophies</h2>
