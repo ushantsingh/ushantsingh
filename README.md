@@ -130,11 +130,7 @@ try {
   </a>
   
   <br/>
-  ````
-  <a href="https://leetcode.com/u/ushantsingh/">
-    <img src="https://leetcard.jacoblin.cool/ushantsingh?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-````
+ 
   
   <br/>
 </div>
