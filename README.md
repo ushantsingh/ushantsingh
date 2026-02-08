@@ -124,7 +124,7 @@ try {
 # 📊 GitHub Stats:
 
 <div align="center">
-  <h2>📊 GitHub Analytics</h2>
+  <h2>📊 LeetCode & GitHub Analytics</h2>
   
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ushantsingh&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
@@ -132,11 +132,14 @@ try {
   
   <br/>
   
-  <a href="https://github.com/ushantsingh">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ushantsingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Ushant's GitHub Stats" />
+  <a href="https://leetcode.com/u/ushantsingh/">
+    <img src="https://leetcard.jacoblin.cool/ushantsingh?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
   </a>
-  <a href="https://github.com/ushantsingh">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushantsingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  
+  <br/>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ushantsingh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="github-trophy" />
   </a>
 </div>
 
